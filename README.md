@@ -1,4 +1,5 @@
-### Olá! Eu sou Yuri Afonso Costa da Silva
+
+### Olá! Eu sou Yuri Afonso
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-afonso-costa-silva)
 
@@ -20,4 +21,5 @@
     <img alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
     <img alt="html5" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 
-</div>
+</div></br>
+Apaixonado por tecnologia e por sempre evoluir buscando melhorar minhas skills.
